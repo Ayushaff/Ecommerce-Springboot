@@ -8,6 +8,7 @@ class BackendApplicationTests {
 
     @Test
     void contextLoads() {
+        System.err.println("done test");
     }
 
 }
